@@ -1,0 +1,15 @@
+DATE: 2018.4.5
+
+手写体识别 
+
+http://www.tensorfly.cn/tfdoc/tutorials/mnist_beginners.html
+
+由softmax()回归方程实现
+
+y = tf.nn.softmax(tf.matmul(x * W) + b)
+
+
+loss = tf.ruduce_sum(y_ * tf.log(y)
+
+PyQt5 shixianjiemian
+
